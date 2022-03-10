@@ -18,16 +18,22 @@ The present project assessed the contribution and the relationship of each featu
 
 ### How does the distribution of life expectancy look like?
 
+
 ![image](https://user-images.githubusercontent.com/90922607/157615572-b7a634bd-0e2a-4251-88d6-b752cbe9265a.png)
 
 
 ### How was the life expectancy over one decade (2005 to 2015) ?
 
+
 ![image](https://user-images.githubusercontent.com/90922607/157615718-9e289690-71c9-44e1-a408-cb2b00ffda23.png)
 
-### immunization and life expectancy
+### Immunization and life expectancy
 
-![image](https://user-images.githubusercontent.com/90922607/157616361-fce3bee1-a081-4414-b4cf-747b64b96ec8.png)
+![image](https://user-images.githubusercontent.com/90922607/157616929-60072953-75a0-491c-a1ea-851d19c0cf83.png)
+
+![image](https://user-images.githubusercontent.com/90922607/157616965-61235cae-524e-4833-897d-45d5e93742a8.png)
+
+![image](https://user-images.githubusercontent.com/90922607/157617001-165fe804-8e6d-49fe-b0a1-a801acb53a11.png)
 
 
 ### key outcomes 
